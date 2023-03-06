@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seyit</h1>
-<h3 align="center">Self-taught frontend developer with passion</h3>
+<h3 align="center">Self-taught frontend developer</h3>
 
 - 🔭 I’m currently working on [portfolio-website](https://github.com/seyityuce/portfolio-website)
 
