@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seyit</h1>
 <h3 align="center">Self-taught frontend developer</h3>
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **seyityuce8@gmail.com**
 
